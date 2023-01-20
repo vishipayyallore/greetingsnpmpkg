@@ -1,0 +1,2 @@
+# greetingsnpmpkg
+NPM Package Demo
